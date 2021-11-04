@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="test_roguelike.Behaviors.StandardMoveAndAttack" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Behaviors\StandardMoveAndAttack.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="test_roguelike.Core.AccuracyUp" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\AccuracyUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Actor" Collapsed="true">
+    <Position X="10.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAKggAAAEACgAACAAIAAQBABAAAAACBAAEgAAAaQg=</HashCode>
+      <FileName>Core\Actor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="test_roguelike.Core.Colors" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QiAIACAABAAAAAiAAAAAgAAAEFAAAAQAwBABDQIAAAE=</HashCode>
+      <FileName>Core\Color.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Door" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAAAgAAAaAA=</HashCode>
+      <FileName>Core\Door.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="test_roguelike.Core.DungeonMap" Collapsed="true">
+    <Position X="11.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAVBAAMAAAAiCIAASCBAACiBAAAEAEAIgBgAAGAQE=</HashCode>
+      <FileName>Core\DungeonMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.EndZone" Collapsed="true">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAaAA=</HashCode>
+      <FileName>Core\EndZone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.HealthUp" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\HealthUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.House" Collapsed="true">
+    <Position X="17" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\House.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Item" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAKAkAAAAAAAAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Core\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Monster" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Monster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Obstacle" Collapsed="true">
+    <Position X="15.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAaAA=</HashCode>
+      <FileName>Core\Obstacle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Player" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAAAAAAAAAAEAAAAAIAAAAAgACAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Core\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Sniper" Collapsed="true">
+    <Position X="9.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Sniper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Stairs" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAABAAAAAAAAAAAAAAAAAgAAAaAA=</HashCode>
+      <FileName>Core\Stairs.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="test_roguelike.Core.SubmachineGun" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\SubmachineGun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Swatch" Collapsed="true">
+    <Position X="15.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYkAgFAAAIAEBGMBRgIAAAAACAAYACAAoEAAAACAAGE=</HashCode>
+      <FileName>Core\Swatch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Core.Weapon" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIAAAAAAAAAggAAAAAEAAAAAAAAAAAAAAAAgEAYAA=</HashCode>
+      <FileName>Core\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Game" Collapsed="true">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAADAQCQAIsAEACAAACAEQABAEIQgAERwABAgA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Monsters.Kobold" Collapsed="true">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monsters\Kobold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Properties.Resources" Collapsed="true">
+    <Position X="17" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.BeginningScreen" Collapsed="true">
+    <Position X="13.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Systems\BeginningScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.Checkpoint" Collapsed="true">
+    <Position X="15.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAQACAAAACAAAIAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\Checkpoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.Checkpoint2" Collapsed="true">
+    <Position X="17" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Systems\Checkpoint2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.CheckpointFinal" Collapsed="true">
+    <Position X="18.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAAAGAAAAAAAAA=</HashCode>
+      <FileName>Systems\CheckpointFinal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.CommandInput" Collapsed="true">
+    <Position X="13.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\CommandInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.CommandSystem" Collapsed="true">
+    <Position X="15.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIIAAwAAAACJACCAAAAAAAAAABAAAAQAAAAAQAAAAA=</HashCode>
+      <FileName>Systems\CommandSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.DeathScreen" Collapsed="true">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAAACAAAYAAAAAGAAAAQAAAA=</HashCode>
+      <FileName>Systems\DeathScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.Inventory" Collapsed="true">
+    <Position X="18.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.MapGenerator" Collapsed="true">
+    <Position X="18.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAAACEAEAIAAAQAAAAIBQAAAAAAEAQAAIAEAA=</HashCode>
+      <FileName>Systems\MapGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.MessageLog" Collapsed="true">
+    <Position X="13.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\MessageLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="test_roguelike.Systems.SchedulingSystem" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAgAABAAAAABAAAgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Systems\SchedulingSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="test_roguelike.Interfaces.IActor" Collapsed="true">
+    <Position X="13.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACgAAAAAACAAAAAAIAAQBABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IActor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="test_roguelike.Interfaces.IBehavior" Collapsed="true">
+    <Position X="15.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Interfaces\IBehavior.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="test_roguelike.Interfaces.IDrawable" Collapsed="true">
+    <Position X="17" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAgAAAaAA=</HashCode>
+      <FileName>Interfaces\IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="test_roguelike.Interfaces.IScheduleable" Collapsed="true">
+    <Position X="18.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Interfaces\IScheduleable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="test_roguelike.Core.Direction" Collapsed="true">
+    <Position X="13.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Core\Direction.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
